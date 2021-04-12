@@ -1,0 +1,8 @@
+[submodule "megasource"]
+	path = megasource
+	url = https://github.com/Davidobot/megasource.git
+	branch = emscripten
+[submodule "love"]
+	path = love
+	url = https://github.com/Davidobot/love.git
+	branch = emscripten

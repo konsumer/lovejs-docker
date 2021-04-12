@@ -1,0 +1,9 @@
+version: "3.3"
+
+services:
+  lovejs_builder:
+    build: .
+    volumes:
+      - ./out:/out
+      - ./megasource:/src/megasource
+      - ./love:/src/megasource/libs/love
