@@ -1,4 +1,4 @@
-# docker-lovejs
+# lovejs-docker
 
 I wanted to be able to build lovejs in docker, with sockets-websocket-proxy extensions.
 
