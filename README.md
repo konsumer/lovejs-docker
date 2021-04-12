@@ -14,4 +14,4 @@ docker-compose up
 
 This will create out/ that has all your files in it.
 
-You can use `docker-compose up --build` to force a rebuild. You can also explore the container without building by running `docker-compose run lovejs_builder bash`
+You can use `docker-compose up --build` to force a rebuild. You can also explore the container without building lovejs by running `docker-compose run lovejs_builder bash`
