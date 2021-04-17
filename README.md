@@ -7,7 +7,7 @@ I wanted to be able to build lovejs in docker, with sockets-websocket-proxy exte
 You will need docker installed.
 
 ```
-git clone --depth=1 --recursive https://github.com/konsumer/docker-lovejs.git
+git clone --depth=1 --recursive https://github.com/konsumer/lovejs-docker.git
 cd docker-lovejs
 docker-compose up
 ```
